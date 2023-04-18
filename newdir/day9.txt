@@ -1,0 +1,1 @@
+Created a new file in a new directory in the local repository to push it to the remote server
